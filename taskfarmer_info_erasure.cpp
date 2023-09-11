@@ -127,13 +127,13 @@ sprintf(st,"mv jobcomplete.dat iteration_%d",n);
 system(st);
 
 //compile code
-// sprintf(st,"cd iteration_%d; g++ -Wall -mcmodel=medium -o swarm_%d info_erasure.c -lm -O",n,n); system(st); DP
-sprintf(st,"cd iteration_%d; g++ -Wall -o swarm_%d info_erasure.cpp -lm -O3",n,n); system(st);
+sprintf(st,"cd iteration_%d; g++ -Wall -mcmodel=medium -o swarm_%d info_erasure.cpp -lm -O",n,n); system(st); 
+// sprintf(st,"cd iteration_%d; g++ -Wall -o swarm_%d info_erasure.cpp -lm -O3",n,n); system(st);
 
 cout << st << endl;                                                               
  
-// sprintf(st,"cd iteration_%d; sbatch swarm_%d.sh",n,n); system(st); DP CHANGE
-sprintf(st,"cd iteration_%d; ./swarm_%d",n,n); system(st);
+sprintf(st,"cd iteration_%d; sbatch swarm_%d.sh",n,n); system(st);
+// sprintf(st,"cd iteration_%d; ./swarm_%d",n,n); system(st);
 }}
 
 
@@ -306,8 +306,8 @@ jobcomplete(0);
 sprintf(st,"mv jobcomplete.dat iteration_%d",i);
 system(st);
 
-// sprintf(st,"cd iteration_%d; sbatch swarm_%d.sh",i,i); system(st); DP change
-sprintf(st,"cd iteration_%d; ./swarm_%d",i,i); system(st);
+sprintf(st,"cd iteration_%d; sbatch swarm_%d.sh",i,i); system(st);
+// sprintf(st,"cd iteration_%d; ./swarm_%d",i,i); system(st);
  
 
 }}
