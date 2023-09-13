@@ -23,10 +23,10 @@ long ltime = time(NULL);
 long int rn_seed2 = ltime;
 
 // DP change
-// const int n_traj=50;
-// const int parents=5;
-const int n_traj=10;
-const int parents=2;
+const int n_traj=50;
+const int parents=5;
+//const int n_traj=10;
+// const int parents=2;
 
 int parent_list[parents];
 int generation=0;
@@ -92,9 +92,9 @@ ofstream soutput(st,ios::out);
 soutput << "#!/usr/bin/env bash" << endl;
 sprintf(st,"#SBATCH --job-name=swarm_%d",n);
 soutput << st << endl;
-soutput << "#SBATCH --partition=etna-shared" << endl;
+// soutput << "#SBATCH --partition=etna-shared" << endl;
 //soutput << "#SBATCH --partition=etna" << endl;
-soutput << "#SBATCH --account=nano" << endl;
+soutput << "#SBATCH --account=def-dsivak" << endl;
 soutput << "#SBATCH --qos=normal" << endl;
 sprintf(st,"#SBATCH --nodes=%d",1);
 soutput << st << endl;

@@ -1,0 +1,213 @@
+mkdir: cannot create directory 'genome': File exists
+mkdir: cannot create directory 'iteration_0': File exists
+cd iteration_0; g++ -Wall -mcmodel=medium -o swarm_0 info_erasure.cpp -lm -O
+Submitted batch job 12019246
+mkdir: cannot create directory 'iteration_1': File exists
+cd iteration_1; g++ -Wall -mcmodel=medium -o swarm_1 info_erasure.cpp -lm -O
+Submitted batch job 12019247
+mkdir: cannot create directory 'iteration_2': File exists
+cd iteration_2; g++ -Wall -mcmodel=medium -o swarm_2 info_erasure.cpp -lm -O
+Submitted batch job 12019248
+mkdir: cannot create directory 'iteration_3': File exists
+cd iteration_3; g++ -Wall -mcmodel=medium -o swarm_3 info_erasure.cpp -lm -O
+Submitted batch job 12019249
+mkdir: cannot create directory 'iteration_4': File exists
+cd iteration_4; g++ -Wall -mcmodel=medium -o swarm_4 info_erasure.cpp -lm -O
+Submitted batch job 12019250
+mkdir: cannot create directory 'iteration_5': File exists
+cd iteration_5; g++ -Wall -mcmodel=medium -o swarm_5 info_erasure.cpp -lm -O
+Submitted batch job 12019251
+mkdir: cannot create directory 'iteration_6': File exists
+cd iteration_6; g++ -Wall -mcmodel=medium -o swarm_6 info_erasure.cpp -lm -O
+Submitted batch job 12019252
+mkdir: cannot create directory 'iteration_7': File exists
+cd iteration_7; g++ -Wall -mcmodel=medium -o swarm_7 info_erasure.cpp -lm -O
+Submitted batch job 12019263
+mkdir: cannot create directory 'iteration_8': File exists
+cd iteration_8; g++ -Wall -mcmodel=medium -o swarm_8 info_erasure.cpp -lm -O
+Submitted batch job 12019264
+mkdir: cannot create directory 'iteration_9': File exists
+cd iteration_9; g++ -Wall -mcmodel=medium -o swarm_9 info_erasure.cpp -lm -O
+Submitted batch job 12019266
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 2
+ gen 0 counter 9
+ gen 0 counter 9
+ gen 0 counter 9
+ gen 0 counter 9
+ gen 0 counter 9
+ gen 0 counter 9
+ gen 0 counter 10
+cp iteration_8/net_out_gen_0.dat iteration_0/net_in_gen_1.dat
+Submitted batch job 12020106
+cp iteration_8/net_out_gen_0.dat iteration_1/net_in_gen_1.dat
+Submitted batch job 12020109
+cp iteration_6/net_out_gen_0.dat iteration_2/net_in_gen_1.dat
+Submitted batch job 12020110
+cp iteration_6/net_out_gen_0.dat iteration_3/net_in_gen_1.dat
+Submitted batch job 12020111
+cp iteration_6/net_out_gen_0.dat iteration_4/net_in_gen_1.dat
+Submitted batch job 12020112
+cp iteration_6/net_out_gen_0.dat iteration_5/net_in_gen_1.dat
+Submitted batch job 12020114
+cp iteration_8/net_out_gen_0.dat iteration_6/net_in_gen_1.dat
+Submitted batch job 12020115
+cp iteration_8/net_out_gen_0.dat iteration_7/net_in_gen_1.dat
+Submitted batch job 12020116
+cp iteration_8/net_out_gen_0.dat iteration_8/net_in_gen_1.dat
+Submitted batch job 12020117
+cp iteration_8/net_out_gen_0.dat iteration_9/net_in_gen_1.dat
+Submitted batch job 12020119
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 0
+ gen 1 counter 2
+ gen 1 counter 4
+ gen 1 counter 10
+cp iteration_8/net_out_gen_1.dat iteration_0/net_in_gen_2.dat
+Submitted batch job 12020699
+cp iteration_0/net_out_gen_1.dat iteration_1/net_in_gen_2.dat
+Submitted batch job 12020701
+cp iteration_0/net_out_gen_1.dat iteration_2/net_in_gen_2.dat
+Submitted batch job 12020703
+cp iteration_8/net_out_gen_1.dat iteration_3/net_in_gen_2.dat
+Submitted batch job 12020704
+cp iteration_8/net_out_gen_1.dat iteration_4/net_in_gen_2.dat
+Submitted batch job 12020705
+cp iteration_8/net_out_gen_1.dat iteration_5/net_in_gen_2.dat
+Submitted batch job 12020706
+cp iteration_8/net_out_gen_1.dat iteration_6/net_in_gen_2.dat
+Submitted batch job 12020707
+cp iteration_0/net_out_gen_1.dat iteration_7/net_in_gen_2.dat
+Submitted batch job 12020708
+cp iteration_0/net_out_gen_1.dat iteration_8/net_in_gen_2.dat
+Submitted batch job 12020709
+cp iteration_8/net_out_gen_1.dat iteration_9/net_in_gen_2.dat
+Submitted batch job 12020710
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 0
+ gen 2 counter 5
+ gen 2 counter 10
+cp iteration_1/net_out_gen_2.dat iteration_0/net_in_gen_3.dat
+Submitted batch job 12021123
+cp iteration_0/net_out_gen_2.dat iteration_1/net_in_gen_3.dat
+Submitted batch job 12021124
+cp iteration_0/net_out_gen_2.dat iteration_2/net_in_gen_3.dat
+Submitted batch job 12021126
+cp iteration_0/net_out_gen_2.dat iteration_3/net_in_gen_3.dat
+Submitted batch job 12021127
+cp iteration_1/net_out_gen_2.dat iteration_4/net_in_gen_3.dat
+Submitted batch job 12021128
+cp iteration_1/net_out_gen_2.dat iteration_5/net_in_gen_3.dat
+Submitted batch job 12021129
+cp iteration_1/net_out_gen_2.dat iteration_6/net_in_gen_3.dat
+Submitted batch job 12021134
+cp iteration_1/net_out_gen_2.dat iteration_7/net_in_gen_3.dat
+Submitted batch job 12021141
+cp iteration_1/net_out_gen_2.dat iteration_8/net_in_gen_3.dat
+Submitted batch job 12021144
+cp iteration_0/net_out_gen_2.dat iteration_9/net_in_gen_3.dat
+Submitted batch job 12021147
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 0
+ gen 3 counter 6
+ gen 3 counter 10
+cp iteration_6/net_out_gen_3.dat iteration_0/net_in_gen_4.dat
+Submitted batch job 12021572
+cp iteration_3/net_out_gen_3.dat iteration_1/net_in_gen_4.dat
+Submitted batch job 12021573
+cp iteration_3/net_out_gen_3.dat iteration_2/net_in_gen_4.dat
+Submitted batch job 12021574
+cp iteration_6/net_out_gen_3.dat iteration_3/net_in_gen_4.dat
+Submitted batch job 12021575
+cp iteration_6/net_out_gen_3.dat iteration_4/net_in_gen_4.dat
+Submitted batch job 12021577
+cp iteration_6/net_out_gen_3.dat iteration_5/net_in_gen_4.dat
+Submitted batch job 12021578
+cp iteration_3/net_out_gen_3.dat iteration_6/net_in_gen_4.dat
+Submitted batch job 12021579
+cp iteration_3/net_out_gen_3.dat iteration_7/net_in_gen_4.dat
+Submitted batch job 12021580
+cp iteration_6/net_out_gen_3.dat iteration_8/net_in_gen_4.dat
+Submitted batch job 12021581
+cp iteration_3/net_out_gen_3.dat iteration_9/net_in_gen_4.dat
+Submitted batch job 12021582
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+ gen 4 counter 0
+slurmstepd: error: *** JOB 12018912 ON cdr332 CANCELLED AT 2023-09-12T16:29:32 ***

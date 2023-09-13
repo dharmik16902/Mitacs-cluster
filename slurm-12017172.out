@@ -1,0 +1,205 @@
+cd iteration_0; g++ -Wall -mcmodel=medium -o swarm_0 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_1; g++ -Wall -mcmodel=medium -o swarm_1 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_2; g++ -Wall -mcmodel=medium -o swarm_2 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_3; g++ -Wall -mcmodel=medium -o swarm_3 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_4; g++ -Wall -mcmodel=medium -o swarm_4 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_5; g++ -Wall -mcmodel=medium -o swarm_5 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_6; g++ -Wall -mcmodel=medium -o swarm_6 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_7; g++ -Wall -mcmodel=medium -o swarm_7 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_8; g++ -Wall -mcmodel=medium -o swarm_8 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+cd iteration_9; g++ -Wall -mcmodel=medium -o swarm_9 info_erasure.cpp -lm -O
+sbatch: error: [00;31m--------------------------------------------------------------------------------
+sbatch: error: You are not a member of the specified account nano.
+sbatch: error: You cannot use this account to submit a job.
+sbatch: error: Please use one of the following accounts:
+sbatch: error:   RAS default accounts: def-dsivak, 
+sbatch: error:           RAC accounts: rrg-dsivak, 
+sbatch: error: Compute-Burst accounts: 
+sbatch: error:         Other accounts: 
+sbatch: error: Use the parameter --account=desired_account when submitting your job.
+sbatch: error: If you think that you should be a member of nano and the PI or account coordinator agrees,
+sbatch: error: the instructions to add your account by the PI/account coordinator can be found here:
+sbatch: error: https://docs.computecanada.ca/wiki/Using_a_resource_allocation#Information_on_each_resource
+sbatch: error: Please note than any changes made to account membership in CCDB
+sbatch: error: may take up to 30 minutes to apply on a cluster.
+sbatch: error: --------------------------------------------------------------------------------[00m
+sbatch: error: Batch job submission failed: Unspecified error
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+ gen 0 counter 0
+slurmstepd: error: *** JOB 12017172 ON cdr41 CANCELLED AT 2023-09-12T15:26:29 ***
